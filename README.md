@@ -53,15 +53,14 @@ The model training process involved:
 
 ## Results
 
-### Model Performance
+## Model Performance
 
-- **Data Split**: 80% training data, 20% testing data
-- **Accuracy**:
-  - Training data: 96.01%
-  - Testing data: 95.77%
-- **Precision**:
-  - Training data: 59.48%
-  - Testing data: 57.37%
+| Metric         | Training Data | Testing Data |
+|----------------|---------------|--------------|
+| **Data Split** | 80%           | 20%          |
+| **Accuracy**   | 96.01%        | 95.77%       |
+| **Precision**  | 59.48%        | 57.37%       |
+
 
 ### Conclusion
 
